@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Irving Manrique González
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Divulgación de temas sobre análisis espacial y Sistemas de Información Geográfica.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars0.githubusercontent.com/u/22552775?s=400&u=dcabb0bc06e17dd622bba85f41c0f30d311d1076&v=4
 
 #
 # Flags below are optional
@@ -18,8 +18,8 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email:irving.9mg@gmail.com
+  facebook:https://www.facebook.com/profile.php?id=100009679980482
   flickr:
   github: barryclark/jekyll-now
   instagram:
