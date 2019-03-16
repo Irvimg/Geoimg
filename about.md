@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: Acerca de
 permalink: /about/
 ---
+Ingeniero Ingeniero topógrafo geodesta, especialista en sistemas de información geográfica y Maestro en Análisis espacial.
+ 
+### Más información
 
-Some information about you!
+Experto en generación de cartografía, georreferenciación y representación de información espacial.
 
-### More Information
+### Contacto
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[irving.9mg@gmail.com](mailto:email@domain.com)
