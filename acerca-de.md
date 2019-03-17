@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de
-permalink: /acerca-de.md/
+permalink: /acerca de.md/
 ---
 Ingeniero Ingeniero topógrafo geodesta, especialista en sistemas de información geográfica y Maestro en Análisis espacial.
  
